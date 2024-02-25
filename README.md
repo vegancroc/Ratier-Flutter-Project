@@ -1,2 +1,2 @@
 # Ratier-Flutter-Project
-A simple Flutter project
+You can use this app for creating anything you want, and rate them.
